@@ -1,8 +1,11 @@
 <p align="center"><a href="https://simpelbudget.com" target="_blank"><img src="https://simpelbudget.com/images/logo-square.png" width="400" alt="Simpel Budget Logo"></a></p>
 
 ## About Simpel Budget
-
-Simpel Budget is a web application for manage your budget monhtly, in a simple way. without many tutorial and without pain.
+* Nama: Fiona Orinda Sugionoto
+* NIM: 12030122120009
+* Dosen: Dr. Totok Dewayanto, SE., M.Si, Ak, CA
+* Mata Kuliah: Sistem Informasi Akuntansi
+* Simpel Budget is a web application for manage your budget monhtly, in a simple way. without many tutorial and without pain.
 
 ## Learning Simpel Budget
 If you use laravel, you already know how to use Simpel Budget.
