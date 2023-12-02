@@ -60,7 +60,7 @@
 <h4 align="center">Structure "Password Resets"</h4>
 <img src="screenshots/password resets.jpg" alt="Password resets">
 
-<h4 align="center">Structure "Personal Access Tokens</h4>
+<h4 align="center">Structure "Personal Access Tokens"</h4>
 <img src="screenshots/personal access tokens.jpg" alt="Personal Access Tokens">
 
 <h4 align="center">Structure "Profiles"</h4>
