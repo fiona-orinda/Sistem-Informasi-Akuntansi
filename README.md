@@ -26,5 +26,8 @@
 <h4 align="center">Structure "Accounts"</h4>
 <img src="screenshots/accounts.jpg" alt="Accounts">
 
+<h4 align="center">Structure "Accounts"</h4>
+<img src="screenshots/accounts.jpg" alt="Accounts">
+
 </body>
 </html>
