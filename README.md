@@ -17,7 +17,7 @@
 
 <h2>phpMyAdmin</h2>
 <h4 align="center">Designer</h4>
-<img scr="https://github.com/fiona-orinda/Sistem-Informasi-Akuntansi/blob/main/screenshots/designer.jpg?raw=true" alt="Designer">
+<img src="screenshots/designer.jpg" alt="Designer">
 
 
 </body>
