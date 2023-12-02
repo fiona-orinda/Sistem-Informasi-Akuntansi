@@ -16,7 +16,8 @@
 <p align="justify">Simpel Budget adalah aplikasi web yang dirancang untuk membantu Anda mengelola anggaran bulanan dengan mudah dan tanpa perlu banyak tutorial atau proses yang rumit. Aplikasi ini menyediakan antarmuka yang sederhana dan intuitif, sehingga memudahkan Anda untuk melacak pemasukan, pengeluaran, dan transfer uang Anda.</p>
 
 <h2>phpMyAdmin</h2>
-![image](https://github.com/fiona-orinda/Sistem-Informasi-Akuntansi/assets/102533777/93b24d8e-e687-424b-984f-e49ead88cd0d)
+<h4 align="center">Designer</h4>
+<img scr="https://github.com/fiona-orinda/Sistem-Informasi-Akuntansi/blob/main/screenshots/designer.jpg?raw=true" alt="Designer">
 
 
 </body>
