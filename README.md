@@ -71,5 +71,51 @@
 <h4 align="center">Structure "Users"</h4>
 <img src="screenshots/users.jpg" alt="Users">
 
+<h2>Website</h2>
+screenshots/website/simple budgets.png
+
+<h4 align="center">Tampilan Awal</h4>
+<img src="screenshots/website/simple budgets.png" alt="Tampilan Awal">
+
+<h4 align="center">Fitur</h4>
+<img src="screenshots/website/fitur.png" alt="Fitur">
+
+<h4 align="center">Sign Up</h4>
+<img src="screenshots/website/sign up.png" alt="Sign Up">
+
+<h4 align="center">Sign In</h4>
+<img src="screenshots/website/sign in.png" alt="Sign In">
+
+<h4 align="center">Masukan Username dan Password</h4>
+<img src="screenshots/website/admin.png" alt="Masukan Username dan Password">
+
+<h4 align="center">Home</h4>
+<img src="screenshots/website/home.png" alt="Home">
+
+<h4 align="center">Expense, Income, dan Transfer </h4>
+<img src="screenshots/website/input.png" alt="Expense, Income, dan Transfer">
+
+<h4 align="center">Anggaran</h4>
+<img src="screenshots/website/anggaran.png" alt="Anggaran">
+
+<h4 align="center">Profil</h4>
+<img src="screenshots/website/profil.png" alt="Profil">
+
+<h4 align="center">Akun</h4>
+<img src="screenshots/website/akun.png" alt="Akun">
+
+<h4 align="center">Merubah Bahasa</h4>
+<img src="screenshots/website/bahasa.png" alt="Merubah Bahasa">
+
+<h4 align="center">Tujuan</h4>
+<img src="screenshots/website/tujuan.png" alt="Tujuan">
+
+<h4 align="center">Utang</h4>
+<img src="screenshots/website/debts.png" alt="Utang">
+
+<h4 align="center">Setting User</h4>
+<img src="screenshots/website/user 1.png" alt="Setting User">
+<img src="screenshots/website/user 2.png" alt="Setting User">
+
 </body>
 </html>
