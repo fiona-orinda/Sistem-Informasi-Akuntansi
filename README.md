@@ -23,6 +23,8 @@
 <h4 align="center">Designer</h4>
 <img src="screenshots/designer.jpg" alt="Designer">
 
+<h4 align="center">Structure "Accounts"</h4>
+<img src="screenshots/accounts.jpg" alt="Accounts">
 
 </body>
 </html>
