@@ -97,8 +97,8 @@
 <h4 align="center">Home</h4>
 <img src="screenshots/website/home.png" alt="Home">
 
-<h4 align="center">Expense, Income, dan Transfer </h4>
-<img src="screenshots/website/input.png" alt="Expense, Income, dan Transfer">
+<h4 align="center">Pengeluaran, Pemasukan, dan Transfer</h4>
+<img src="screenshots/website/input.png" alt="Pengeluaran, Pemasukan, dan Transfer">
 
 <h4 align="center">Anggaran</h4>
 <img src="screenshots/website/anggaran.png" alt="Anggaran">
@@ -116,7 +116,7 @@
 <img src="screenshots/website/tujuan.png" alt="Tujuan">
 
 <h4 align="center">Utang</h4>
-<img src="screenshots/website/debts.png" alt="Utang">
+<img src="screenshots/website/debt.png" alt="Utang">
 
 <h4 align="center">Setting User</h4>
 <img src="screenshots/website/user 1.png" alt="Setting User">
