@@ -122,5 +122,11 @@
 <img src="screenshots/website/user 1.png" alt="Setting User">
 <img src="screenshots/website/user 2.png" alt="Setting User">
 
+<br>
+
+<h2>Flowchart</h2>
+
+<h4 align="center">Flowchart</h4>
+<img src="screenshots/flowchart.png" alt="Flowchart">
 </body>
 </html>
