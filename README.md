@@ -12,8 +12,12 @@
   <tr><td>Dosen</td><td>Dr. Totok Dewayanto, SE., M.Si, Ak, CA</td></tr>
 </table>
 
+<br>
+
 <h2>Keterangan</h2>
 <p align="justify">Simpel Budget adalah aplikasi web yang dirancang untuk membantu Anda mengelola anggaran bulanan dengan mudah dan tanpa perlu banyak tutorial atau proses yang rumit. Aplikasi ini menyediakan antarmuka yang sederhana dan intuitif, sehingga memudahkan Anda untuk melacak pemasukan, pengeluaran, dan transfer uang Anda.</p>
+
+<br>
 
 <h2>phpMyAdmin</h2>
 
@@ -71,8 +75,9 @@
 <h4 align="center">Structure "Users"</h4>
 <img src="screenshots/users.jpg" alt="Users">
 
+<br>
+
 <h2>Website</h2>
-screenshots/website/simple budgets.png
 
 <h4 align="center">Tampilan Awal</h4>
 <img src="screenshots/website/simple budgets.png" alt="Tampilan Awal">
