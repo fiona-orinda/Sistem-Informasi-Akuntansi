@@ -3,7 +3,7 @@
 <head>
   <h1 align="center">
     SIMPLE BUDGETS 
-    <p>(Source: <a href="https://github.com/fiona-orinda/Sistem-Informasi-Akuntansi.git">GitHub</a>)</p>
+    <p>(Source: <a href="https://github.com/sheenazien8/simpel-budgets.git">click here</a>)</p>
   </h1>
  
 </head>
