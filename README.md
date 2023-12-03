@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<table>
+<table align="center">
   <tr><td>Nama</td><td>Fiona Orinda Sugionoto</td></tr>
   <tr><td>NIM</td><td>12030122120009</td></tr>
   <tr><td>Mata Kuliah</td><td>Sistem Informasi Akuntansi</td></tr>
