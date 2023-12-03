@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <h1 align="center">SIMPLE BUDGETS</h1>
+  <h1 align="center">
+    SIMPLE BUDGETS 
+    <p>(Source: <a href="https://github.com/fiona-orinda/Sistem-Informasi-Akuntansi.git">GitHub</a>)</p>
+  </h1>
+ 
 </head>
 <body>
 
