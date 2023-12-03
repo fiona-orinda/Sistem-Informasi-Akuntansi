@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <h1 align="center">Simple Budgets</h1>
+  <h1 align="center">SIMPLE BUDGETS</h1>
 </head>
 <body>
 
