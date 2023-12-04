@@ -2,7 +2,7 @@
 <html>
 <head>
   <h1 align="center">
-    SIMPLE BUDGETS 
+    🤑 SIMPLE BUDGETS 🤑
     <p>(Source: <a href="https://github.com/sheenazien8/simpel-budgets.git">GitHub</a>)</p>
   </h1>
  
